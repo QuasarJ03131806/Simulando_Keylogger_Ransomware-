@@ -1,12 +1,8 @@
-# Simulando_Keylogger_Ransomware-
-Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Proteger
 # Projeto de Simulação de Malware (Educacional)
 
 Este projeto foi desenvolvido como parte de um desafio educacional para compreender o funcionamento de malwares (Ransomware e Keylogger) e, principalmente, como se defender deles.
 
 **AVISO LEGAL:** Este código é estritamente para fins educacionais. O uso dessas ferramentas em sistemas sem autorização explícita é ilegal e antiético.
-**uppertec**
-**biohazzard**
 
 ## Estrutura do Projeto
 
