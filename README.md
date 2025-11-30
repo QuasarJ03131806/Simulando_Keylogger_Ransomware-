@@ -1,0 +1,2 @@
+# Simulando_Keylogger_Ransomware-
+Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Proteger
